@@ -1,5 +1,5 @@
-def fizzbuzz(int)
-  elsif int int % 3 == 0
+def fizzbuzz(i)
+  if i % 3 == 0
     put "Fizz"
   end
     
