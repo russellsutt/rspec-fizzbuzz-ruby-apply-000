@@ -1,5 +1,5 @@
-def fizzbuzz(Integer)
-  if Integer / 3 == 0
-    put "Fizz"
+def fizzbuzz(int)
+  if int % 3 == 0
+    puts "Fizz"
   end
 end
