@@ -1,5 +1,5 @@
 def fizzbuzz(i)
-  if i % 3 == 0
+  if i / 3 == 0
     put "Fizz"
   end
     
