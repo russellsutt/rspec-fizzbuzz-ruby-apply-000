@@ -1,4 +1,4 @@
-def fizzbuzz
+def fizzbuzz(int)
   if int % 3 == 0
     put "Fizz"
   elseif int % 5 == 0
@@ -6,4 +6,5 @@ def fizzbuzz
   elseif int % 15 == 0
     put "Fizzbuzz"
   if int % 4 == 0
+  end
 end
